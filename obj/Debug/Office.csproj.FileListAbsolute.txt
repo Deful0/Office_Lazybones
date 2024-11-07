@@ -1,0 +1,16 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\bin\Debug\Office.exe.config
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\bin\Debug\Office.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\bin\Debug\Office.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.Main_form.resources
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.csproj.GenerateResource.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.Test_form.resources
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\bin\Debug\Interop.WMPLib.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Interop.WMPLib.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Office_game\Office\obj\Debug\Office.csproj.ResolveComReference.cache
